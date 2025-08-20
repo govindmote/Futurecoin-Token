@@ -1,0 +1,2 @@
+# Futurecoin-Token
+Futurecoin Token
